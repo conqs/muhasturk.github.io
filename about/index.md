@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hakkında - Mustafa Hastürk
+title: Hakkında
 tags: [mustafa, hastürk, kimdir, hakkında, bilgisayar, mühendisi, blog, ios, developer, iletişim, bilgileri]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
