@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title:            Mustafa Hastürk
-locale:           en_US
+locale:           tr-TR
 url:
 
 
@@ -48,12 +48,12 @@ owner:
   twitter: muhasturk
   facebook: muhasturk
   google:
-    plus: #username
-    analytics:
-    verify:
+    plus: MustafaHastürk
+    analytics: UA-73540609-1
+    verify: -sJWesmFgcjJuR4kTjY4Rah87gq1rMKBdqULDT3NEdM
     ad-client:
     ad-slot:
-  bing-verify:
+  bing-verify: 99F7437D49648F4D2CB031C5B715E298
   github: muhasturk
   stackoverflow: 3022613/muhasturk
   linkedin: muhasturk
@@ -65,7 +65,7 @@ owner:
   foursquare: #username
   steam: muhasturk
   dribbble: #username
-  youtube: #username
+  youtube: MustafaHastürk
   soundcloud: muhasturk
   weibo: #username
   flickr: #username
