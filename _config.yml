@@ -6,7 +6,6 @@ url:
 
 
 # Jekyll configuration
-
 permalink:   pretty
 markdown:    kramdown
 highlighter: rouge
@@ -43,7 +42,7 @@ titlecase: true
 owner:
   name: Mustafa Hastürk
   avatar: bio-photo.png
-  bio: "Bilgisayar Mühendisi, iOS Developer"
+  bio: "💻 Bilgisayar Mühendisi, iOS  Developer"
   email: hi@mustafahasturk.com
   disqus-shortname: muhasturk
   twitter: muhasturk
@@ -56,18 +55,18 @@ owner:
     ad-slot:
   bing-verify:
   github: muhasturk
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: 3022613/muhasturk
   linkedin: muhasturk
   xing: #username
   instagram: muhasturk
   lastfm: #username
-  tumblr: #username
+  tumblr: muhasturk
   pinterest: #username
   foursquare: #username
   steam: muhasturk
   dribbble: #username
   youtube: #username
-  soundcloud: #username
+  soundcloud: muhasturk
   weibo: #username
   flickr: #username
   codepen: #username
