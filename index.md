@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Mustafa Hastürk'ün resmi sitesidir. iOS, Swift, Python ve open source projeler ile ilgili yazılar bulunur."
+tags: [Mustafa, Hastürk, blog, swift, bilgisayar, mühendisi, engineer, developer, ios]
 image:
   feature: sample-image-1.jpg
   credit: WeGraphics
