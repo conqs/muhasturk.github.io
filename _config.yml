@@ -1,13 +1,13 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Mustafa Hastürk
 locale:           en_US
 url:
 
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   pretty
 markdown:    kramdown
 highlighter: rouge
 sass:
@@ -41,13 +41,13 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+  name: Mustafa Hastürk
+  avatar: bio-photo.png
+  bio: "Bilgisayar Mühendisi, iOS Developer"
+  email: hi@mustafahasturk.com
+  disqus-shortname: muhasturk
+  twitter: muhasturk
+  facebook: muhasturk
   google:
     plus: #username
     analytics:
@@ -55,16 +55,16 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: muhasturk
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: muhasturk
   xing: #username
-  instagram: #username
+  instagram: muhasturk
   lastfm: #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
-  steam: #username
+  steam: muhasturk
   dribbble: #username
   youtube: #username
   soundcloud: #username
