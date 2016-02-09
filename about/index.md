@@ -2,7 +2,7 @@
 layout: page
 title: Hakkında
 tags: [mustafa, hastürk, kimdir, hakkında, bilgisayar, mühendisi, blog, ios, developer, iletişim, bilgileri]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2016-01-09T12:00:00.573882-04:00
 comments: true
 image:
   feature: 
@@ -12,7 +12,7 @@ image:
 
 Merhaba! Ben **Mustafa Hastürk** 😀
 
-Istanbul Üniversitesi Bilgisayar Mühendisliği lisans son sınıf öğrencisiyim. Lisans eğitimi süresince;
+İstanbul Üniversitesi Bilgisayar Mühendisliği lisans son sınıf öğrencisiyim. Lisans eğitimi süresince;
 
 * Php ile web backend işlemleri,
 * Selenium ile kullanıcı davranışlarını test etmek,
