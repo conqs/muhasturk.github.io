@@ -2,7 +2,7 @@
 
 title:            Mustafa Hastürk
 locale:           tr-TR
-url:
+#url:              http://mustafahasturk.com
 
 
 # Jekyll configuration
@@ -42,7 +42,7 @@ titlecase: true
 owner:
   name: Mustafa Hastürk
   avatar: bio-photo.png
-  bio: "💻 Bilgisayar Mühendisi, iOS  Developer"
+  bio: "💻 Bilgisayar Mühendisi,  iOS Developer"
   email: hi@mustafahasturk.com
   disqus-shortname: muhasturk
   twitter: muhasturk
@@ -57,17 +57,14 @@ owner:
   github: muhasturk
   stackoverflow: 3022613/muhasturk
   linkedin: muhasturk
-  xing: #username
   instagram: muhasturk
   lastfm: #username
   tumblr: muhasturk
   pinterest: #username
   foursquare: #username
   steam: muhasturk
-  dribbble: #username
   youtube: MustafaHastürk
   soundcloud: muhasturk
-  weibo: #username
   flickr: #username
   codepen: #username
 
