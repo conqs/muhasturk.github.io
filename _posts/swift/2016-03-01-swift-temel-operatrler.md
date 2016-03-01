@@ -312,7 +312,7 @@ if enteredDoorCode && passedRetinaScan || hasDoorKey || knowsOverridePassword {
 // Ekrana "Welcome!" basar
 ```
 
-Örneğimizde ilk iki ifade false olduğundan (enteredDoorCode && passedRetinaScan) değeri false dönecektir. "hasDoorKey" değişkeni de false değere sahiptir ancak "knowsOverridePassword" değişkeni true değere sahip olduğundan sonuç itibari ile false || true ifadesi true dönecektir. 
+Örneğimizde ilk iki ifade false olduğundan (`enteredDoorCode && passedRetinaScan`) değeri `false` dönecektir. `hasDoorKey` değişkeni de `false` değere sahiptir ancak "`knowsOverridePassword`" değişkeni `true değere sahip olduğundan sonuç itibari ile `false || true` ifadesi `true` dönecektir. 
 
 Swift mantıksal operatörleri sol birleşmeli (left-associative) operatörlerdir. Birleşik ifadelerde kontrol soldan sağa gitmektedir. 
 {: .notice}
@@ -330,4 +330,11 @@ if (enteredDoorCode && passedRetinaScan) || hasDoorKey || knowsOverridePassword 
 // Ekrana "Welcome!" basar
 ```
 
+-----------
+
+Yazıda herhangi bir hata ile karşılaşırsanız [pull request][Pull Request] gönderebilir veya yorum olarak bildirebilirsiniz.
+
+Sevgiler... 🎈
+
+[Pull Request]: https://github.com/muhasturk/muhasturk.github.io/blob/master/_posts/swift/2016-03-01-swift-temel-operatrler.md "Pull Request Gönder"
 [Overlow Operators]: https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/AdvancedOperators.html "Swift Overlow Operatörleri"
