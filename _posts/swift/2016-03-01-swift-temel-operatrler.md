@@ -3,8 +3,8 @@ layout: post
 title: S02 - Swift Temel Operatörler
 modified:
 categories: swift
-excerpt:
-tags: [swift, operatörler, operators]
+excerpt: Swift dilinde yer alan temel atama, karşılaştırma, mantıksal ve diğer operatörleri bu yazı ile öğrenebilirsiniz. 
+tags: [swift, operatörler, operators, atama, karşılaştırma, ternary, conditional, logical, mantıksal, remainder, unary, binary, compound, comparison, range]
 image:
   feature:
 date: 2016-03-01T21:47:22+02:00
