@@ -83,6 +83,8 @@ Yukarıda gösterilen formül yardımı ile `a % b` bize *remainder* dönecektir
 -8 % 3   // -2 sonucunu dönecektir
 ```
 
+![Remainder Example](./i/remainder-operator.png)
+
 #### Floating-Point Remainder Calculations / Kayan Noktalı Sayı Kalan Hesaplama
 
 C ve Objective-C dilinin aksine Swift remainder operatörü kayan noktalı sayılar üzerinde de çalışmaktadır. 
