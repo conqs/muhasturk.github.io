@@ -13,7 +13,7 @@ comments: true
 
 **Swift**, *iOS*, *OSX*, *tvOS*, *watchOS* ve *Linux* platformları için Apple tarafından açık kaynak bir şekilde geliştirilen yeni bir programlama dilidir.
 
-Bir çok programalam dilinin iyi özelliklerini bünyesinde toplamıştır ve hem Apple hem de topluluğun gücü ile günden güne gelişmektedir. OSX ve Linux dağıtımlarında geliştirme yapmak mümkündür.
+Bir çok programalama dilinin iyi özelliklerini bünyesinde toplamıştır ve hem Apple hem de topluluğun gücü ile günden güne gelişmektedir. OSX ve Linux dağıtımlarında geliştirme yapmak mümkündür.
 
 ### Constants and Variables / Sabitler ve Değişkenler
 
