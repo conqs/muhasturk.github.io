@@ -377,10 +377,8 @@ if let definiteString = assumedString {
 
 Değişkenin değeri nil olma ihtimali varsa *Implicitly Unwrapped Optionals* kullanmaktan kaçınmak gerekir. Implicitly Unwrapped Optionals kullandığımızda eğer değişkenin değeri nil ise runtime error alınır. 
 
+-------
 
+Yazıda herhangi bir hata ile karşılaşırsanız [pull request][Pull Request] gönderebilir veya yorum olarak bildirebilirsiniz.
 
-
-
-
-
-
+Sevgiler... 🎈
