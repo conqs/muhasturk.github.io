@@ -4,7 +4,7 @@ title: S01 - Swift Temelleri
 modified:
 categories: swift
 excerpt: Swift programlama dilinin temellerini görebilir ve Swift programlama dilini öğrenmeye bu yazı ile başlayabilirsiniz.
-tags: [swift, programlama, giriş, temel, değişkenler, optional, int, değişken, ]
+tags: [swift, programlama, giriş, temel, değişkenler, optional, int, değişken, C, objective-c, iOS, OSX, tvOS, watchOS, Linux]
 image:
   feature:
 date: 2016-03-01T18:41:06+02:00
@@ -284,7 +284,7 @@ Swift dilinde herhangi bir değeri olmayan / değer içermeyen değişkenler **n
 
 Kısaca bir değişkenin ya kendi değerine sahip ya da nil içerebiliyor ise bu değişken opsioneldir. Opsionel değişkenler içerdikleri değerleri wrap eder ve sarmalarlar. 
 
-Bir değişkeni opsionel olarak tanımlamak için değişken tipinden sonra soru işareti (?) koymak yeterlidir. 
+Bir değişkeni opsional olarak tanımlamak için değişken tipinden sonra soru işareti (?) koymak yeterlidir. 
 
 ```swift
 var surveyAnswer: String?
