@@ -31,7 +31,7 @@ let maximumNumberOfLoginAttempts = 10
 var currentLoginAttempt = 0
 ```
 
-Birden fazla değişken veya sabit tnaımlamalarını tek bir satırda virgüller ile ayırarak yapabiliriz.
+Birden fazla değişken veya sabit tanımlamalarını tek bir satırda virgüller ile ayırarak yapabiliriz.
 
 ```swift
 var x = 0.0, y = 0.0, z = 0.0
@@ -67,7 +67,7 @@ var 🎓 = "education"
 
 Değişken isimleri özel karakterler, boşluk karakterleri (whitespace characters), matematik sembolleri, oklar, özel kullanımlı Unicode kod noktaları, satır veya kutu çizme karakterleri içeremezler. 
 
-Ayrıca değişken isimleri *rakam* ile başlayamaz.
+Değişken isimleri *rakam* ile başlayamaz.
 
 Değişken ismi bir kere tanımlandıktan sonra aynı isimde farklı bir değişken tanımlaması yapılamaz.
 
