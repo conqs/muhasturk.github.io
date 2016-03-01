@@ -113,7 +113,7 @@ let cat = "🐱"; print(cat)
 
 ### Integers / Tam Sayılar
 
-Swift dili 8, 16, 32 ve 64 bit formunda integer sayıları desteklemektedir.
+Swift dili 8, 16, 32 ve 64 bit uzunluğundaki integer sayıları desteklemektedir.
 
 Sayı sınırlarını görmek için;
 
@@ -124,7 +124,7 @@ let maxValue = Int32.max
 
 ##### Int
 
-Tam sayıları ifade etmektedir. Negatif ve pozitif değer alabilirler.
+Tam sayıları ifade etmektedir. Negatif ve pozitif değer alabilirler. Tip bildiriminde `Int8`, `Int16`, `Int32` ve `Int64` olarak tanımlanır.
 
 **Int** türündeki değişken
 
@@ -135,7 +135,7 @@ ile aynı boyuttadır.
 
 ##### UInt
 
-Swift ayrıca işaretsiz tam sayıları da desteklemektedir. Bu sayılar sıfırdan büyük ve negatif değer içermeyen tam sayılardır.
+Swift ayrıca işaretsiz tam sayıları da desteklemektedir. Bu sayılar sıfırdan büyük ve negatif değer içermeyen tam sayılardır. Tip bildiriminde `UInt8`, `UInt16`, `UInt32` ve `UInt64` olarak tanımlanır.
 
 **UInt** türündeki değişken
 
