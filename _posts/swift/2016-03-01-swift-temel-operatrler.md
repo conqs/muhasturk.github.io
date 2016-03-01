@@ -253,9 +253,9 @@ for - in döngüleri kontrol akışlarında detaylı olarak incelenecektir.
 
 Boolean değerleri birleştirmek veya değiştirmek için mantıksal operatörlerden faydalanılır. C tabanlı dillerde yer alan üç adet mantıksal operatör Swift dili tarafından desteklemektedir.
 
-* Mantıksal DEĞİL (!a)
-* Mantıksal VE (a && b)
-* Mantıksal VEYA (a || b)
+* Mantıksal DEĞİL `!a`
+* Mantıksal VE `a && b`
+* Mantıksal VEYA `a || b`
 
 #### Logical NOT Operator / Mantıksal DEĞİL Operatörü
 
