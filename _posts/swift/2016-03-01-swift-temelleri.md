@@ -73,7 +73,7 @@ Değişken ismi bir kere tanımlandıktan sonra aynı isimde farklı bir değiş
 
 Tanımlaması yapılmış bir değişkene tanımlaması yapılırken ifade edilmiş tipten başka tipte bir atama gerçekleştirilemez.
 
-**Uyarı:** Swift için özel olarak ayrılmış anahtar kelimeleri değişken veya sabit ismi olarak kullanmanız gerekiyor ise bunu yapmak için backtik (`) karakterini kullanmanız gerekmektedir. Ancak anahtar kelimeleri değişken veya sabit ismi olarak kullanmamaya çalışın.
+**Uyarı:** Swift için özel olarak ayrılmış anahtar kelimeleri değişken veya sabit ismi olarak kullanmanız gerekiyor ise bunu yapmak için backtick (`) karakterini kullanmanız gerekmektedir. Ancak anahtar kelimeleri değişken veya sabit ismi olarak kullanmamaya çalışın.
 {: .notice}
 
 
