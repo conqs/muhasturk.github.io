@@ -288,7 +288,7 @@ Bir değişkeni opsionel olarak tanımlamak için değişken tipinden sonra soru
 
 ```swift
 var surveyAnswer: String?
-// surveyAnswer otomatik olarak nil değer içermektedir. 
+// surveyAnswer varsayılan olarak nil değer içermektedir. 
 ```
 
 Opsionel değişkenleri kullanmak istediğimizde o değişkenin sarmalanmış wrap edilmiş hali bize gösterilecektir. Bu durumdan kurtarmak istersek unwrapping yapmalı yani değişkeni sarmalanmış halinden kurtarmalıyız.
