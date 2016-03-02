@@ -83,7 +83,7 @@ Yukarıda gösterilen formül yardımı ile `a % b` bize *remainder* dönecektir
 -8 % 3   // -2 sonucunu dönecektir
 ```
 
-![Remainder Example]({{site.url}}/assets/images/swift/S02/remainder-operator.png)
+![Integer Remainder Example][Integer Remainder]
 
 #### Floating-Point Remainder Calculations / Kayan Noktalı Sayı Kalan Hesaplama
 
@@ -93,7 +93,9 @@ C ve Objective-C dilinin aksine Swift remainder operatörü kayan noktalı sayı
 8 % 2.5   // 0.5 sonucunu dönecektir
 ```
 
-### Unary Minus Operator / Tekil Eksi Operatörü
+![Float Remainder Example][Float Remainder]
+
+#### Unary Minus Operator / Tekil Eksi Operatörü
 
 Negatif sayıları tanımlarken kullanacağımız tekil operatördür. 
 
@@ -103,7 +105,7 @@ let minusThree = -three       // minusThree -3 değerine sahiptir
 let plusThree = -minusThree   // plusThree 3 değerine sahiptir (-)(-)(3) = +3
 ```
 
-### Unary Plus Operator / Tekil Artı Operatörü
+#### Unary Plus Operator / Tekil Artı Operatörü
 
 Tekil artı operatörü kısaca operandının değerine etki etmeden geri döndürür. 
 
@@ -112,7 +114,7 @@ let alsoMinusSix = +minusSix  // alsoMinusSix -6 değerine sahiptir
 
 Tekil artı operatörü mantıksal olarak hiçbir iş yapmasa da tekil eksi operaötü ile simetrik olarak kullanılabilir.
 
-### Compound Assignment Operators / Birleşik Atama Operatörleri
+#### Compound Assignment Operators / Birleşik Atama Operatörleri
 
 Tıpkı C dilinde olduğu bir değişkene, kendi değeri ile birlikte başka bir değer üzerinden işlem sonucu atanabilir. 
 
@@ -340,3 +342,6 @@ Sevgiler... 🎈
 
 [Pull Request]: https://github.com/muhasturk/muhasturk.github.io/blob/master/_posts/swift/S02_swift-temel-operatrler/2016-03-01-swift-temel-operatrler.md "Pull Request Gönder"
 [Overlow Operators]: https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/AdvancedOperators.html "Swift Overlow Operatörleri"
+
+[Integer Remainder]: {{site.url}}/assets/images/swift/S02/remainderInteger_2x.png
+[Float Remainder]: {{site.url}}/assets/images/swift/S02/remainderFloat_2x.png
