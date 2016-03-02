@@ -132,12 +132,12 @@ Birleşik atama operatörü geriye herhangi bir değer döndürmez.
 
 Swift, C dilinde yer alan standart karşılaştırma operatörlerinin hepsini destekler. 
 
-* Eşittir (a == b)
-* Eşit değildir (a != b)
-* Büyüktür (a > b)
-* Küçüktür (a < b)
-* Büyük veya eşittir (a >= b)
-* Küçük veya eşittir (a <= b)
+* Eşittir `a == b`
+* Eşit değildir `a != b`
+* Büyüktür `a > b`
+* Küçüktür `a < b`
+* Büyük veya eşittir `a >= b`
+* Küçük veya eşittir `a <= b`
 
 
 ### Ternary Conditional Operator
