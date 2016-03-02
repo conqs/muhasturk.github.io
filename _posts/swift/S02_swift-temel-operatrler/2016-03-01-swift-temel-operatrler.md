@@ -83,7 +83,7 @@ Yukarıda gösterilen formül yardımı ile `a % b` bize *remainder* dönecektir
 -8 % 3   // -2 sonucunu dönecektir
 ```
 
-![Remainder Example](./i/remainder-operator.png)
+![Remainder Example]({{site.url}}/assets/swift/S02/remainder-operator.png)
 
 #### Floating-Point Remainder Calculations / Kayan Noktalı Sayı Kalan Hesaplama
 
