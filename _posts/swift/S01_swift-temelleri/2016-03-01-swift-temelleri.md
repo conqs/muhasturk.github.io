@@ -383,4 +383,4 @@ Yazıda herhangi bir hata ile karşılaşırsanız [pull request][Pull Request] 
 
 Sevgiler... 🎈
 
-[Pull Request]: https://github.com/muhasturk/muhasturk.github.io/blob/master/_posts/swift/2016-03-01-swift-temelleri.md "Pull Request Gönder"
+[Pull Request]: https://github.com/muhasturk/muhasturk.github.io/blob/master/_posts/swift/S01_swift-temelleri/2016-03-01-swift-temelleri.md "Pull Request Gönder"

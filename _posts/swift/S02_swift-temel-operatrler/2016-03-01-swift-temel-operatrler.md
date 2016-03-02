@@ -338,5 +338,5 @@ Yazıda herhangi bir hata ile karşılaşırsanız [pull request][Pull Request] 
 
 Sevgiler... 🎈
 
-[Pull Request]: https://github.com/muhasturk/muhasturk.github.io/blob/master/_posts/swift/2016-03-01-swift-temel-operatrler.md "Pull Request Gönder"
+[Pull Request]: https://github.com/muhasturk/muhasturk.github.io/blob/master/_posts/swift/S02_swift-temel-operatrler/2016-03-01-swift-temel-operatrler.md "Pull Request Gönder"
 [Overlow Operators]: https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/AdvancedOperators.html "Swift Overlow Operatörleri"
