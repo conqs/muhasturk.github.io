@@ -217,7 +217,7 @@ Swift değer aralıklarını ifade etmek için iki farklı aralık operatörü s
 
 Verilen sınırların ikiside aralık içerisindedir ve döngüde sayılırlar. 
 
-````swift
+```swift
 for index in 1...5 {
     print("\(index) çarpı 5 = \(index * 5)")
 }
