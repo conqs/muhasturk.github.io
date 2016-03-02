@@ -316,7 +316,7 @@ if enteredDoorCode && passedRetinaScan || hasDoorKey || knowsOverridePassword {
 // Ekrana "Welcome!" basar
 ```
 
-Örneğimizde ilk iki ifade false olduğundan (`enteredDoorCode && passedRetinaScan`) değeri `false` dönecektir. `hasDoorKey` değişkeni de `false` değere sahiptir ancak "`knowsOverridePassword`" değişkeni `true` değere sahip olduğundan sonuç itibari ile `false || true` ifadesi `true` dönecektir. 
+Örneğimizde ilk iki ifade false olduğundan `enteredDoorCode && passedRetinaScan` değeri `false` dönecektir. `hasDoorKey` değişkeni de `false` değere sahiptir ancak `knowsOverridePassword` değişkeni `true` değere sahip olduğundan sonuç itibari ile `false || true` ifadesi `true` dönecektir. 
 
 Swift mantıksal operatörleri sol birleşmeli (left-associative) operatörlerdir. Birleşik ifadelerde kontrol soldan sağa gitmektedir. 
 {: .notice}
